@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "b8e9ffcb-35fc-4453-a9b2-ab491a727146",
+      "type": "businessOffices",
+      "attributes": {
+        "name": "Leiva, Mojica y Gallegos Asociados",
+        "accountId": "dc9bdc20-f81f-40ad-a315-2fd7e06f8f8b",
+        "stateId": "59bd26db-4f04-4dab-8ea2-b4255b3b23df",
+        "stateName": "Ciudad de México",
+        "fullAddress": "Ramal Virginia 6 Esc. 770; University Crossing; 47701 El Puerto de Santa María Ciudad de México MEXICO"
+      }
+    },
+    {
+      "id": "roflmalolbbqftw-35fc-4453-a9b2-ab491a727146",
+      "type": "businessOffices",
+      "attributes": {
+        "name": "MestiSpa",
+        "accountId": "maki-f81f-40ad-a315-2fmoflesf8f8b",
+        "stateId": "59bd26db-misty-4dab-8ea2-b4255b3b23df",
+        "stateName": "Ciudad de México",
+        "fullAddress": "Avenida Siempre Viva 123; Universidad de la vida; 97154 El Otoño Guadalajara MEXICO"
+      }
+    }
+  ]
+}
