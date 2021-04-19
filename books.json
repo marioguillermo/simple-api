@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Sira",
+        "author": "María Dueñas",
+        "url": "https://static1planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/331/m_libros/330288_portada_sira_maria-duenas_202102180929.jpg",
+        "publishingHouse": "Editorial Planeta",
+        "pages": 648,
+        "bestSeller": true
+    },
+    {
+        "name": "Una mujer en la garganta",
+        "author": "Marwán",
+        "url": "https://static0planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_una-mujer-en-la-garganta_marwan_202103090952.jpg",
+        "publishingHouse": "Editorial Planeta",
+        "pages": 144,
+        "bestSeller": false
+    },
+    {
+        "name": "Freestyle Revolution",
+        "author": "Urban Roosters",
+        "url": "https://static0planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_xxx_varios-autores_202103220858.jpg",
+        "publishingHouse": "Temas de Hoy",
+        "pages": 208,
+        "bestSeller": false
+    },
+    {
+        "name": "Mikeltube 4. Contra el Hacker 2.0",
+        "author": "Mikeltube",
+        "url": "https://static0planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_mikeltube-4-contra-el-hacker-20_mikeltube_202101221908.jpg",
+        "publishingHouse": "Destino Infantil & Juvenil",
+        "pages": 144,
+        "bestSeller": false
+    },
+    {
+        "name": "Cambalache Un abogado en la España de Pujol",
+        "author": "Javier Melero",
+        "url": "https://static0planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_cambalache_javier-melero_202102011841.jpg",
+        "publishingHouse": "Editorial Ariel",
+        "pages": 352,
+        "bestSeller": false
+    },
+    {
+        "name": "Epic Battle El día que los youtubers salvaron el mundo",
+        "author": "YoSoyPlex",
+        "url": "https://static2planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/328/original/portada_epic-battle_yosoyplex_202102011535.jpg",
+        "publishingHouse": "Ediciones Martínez Roca",
+        "pages": 192,
+        "bestSeller": false
+    },
+    {
+        "name": "Transbordo en Moscú",
+        "author": "Eduardo Mendoza",
+        "url": "https://static0planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/m_libros/portada_transbordo-en-moscu_eduardo-mendoza_202103251759.jpg",
+        "publishingHouse": "Seix Barral",
+        "pages": 376,
+        "bestSeller": true
+    },
+    {
+        "name": "Star Wars. The Mandalorian. Detrás de las cámaras",
+        "author": "Star Wars",
+        "url": "https://static2planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/330/original/portada_star-wars-the-mandalorian-detras-de-las-camaras_star-wars_202102251137.jpg",
+        "publishingHouse": "Planeta Junior",
+        "pages": 80,
+        "bestSeller": false
+    },
+    {
+        "name": "Brooklyn Brujas nº 01/03 Labyrinth Lost",
+        "author": "Zoraida Cordova",
+        "url": "https://static1planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/311/m_libros/portada_brooklyn-brujas-n-0103-labyrinth-lost_zoraida-cordova_202101081106.jpg",
+        "publishingHouse": "Minotauro",
+        "pages": 344,
+        "bestSeller": false
+    }
+]
